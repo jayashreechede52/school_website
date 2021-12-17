@@ -1,0 +1,351 @@
+/* body{
+
+} */
+.container_12{
+    display: grid;
+    /* background-color: pink; */
+
+    
+}
+.logoo{
+   
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.menu-item{
+    margin-top: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #059240;
+    color: #ffffff;
+    padding:10px 0;
+    cursor:pointer;
+}
+.menu-item:hover{
+    background-color: #d8cb1b;
+    color:#000000;
+}
+
+.menu-item a{
+    color: white;
+    text-decoration: none;
+}
+#name{
+    text-align: center;
+    
+}
+#name h1{
+    background-color: #d89c1b;;
+    padding: 10px;
+}
+nav{
+    color: #ffffff;
+}
+.sub-heading{
+    border-bottom:5px solid green;
+    /* padding: 5px; */
+    color: black;
+    margin-bottom: 5px;
+}
+/* .sub-heading {
+    border-left: 5px solid #03A4FD;
+    padding-left: 10px;
+  color: #808080; */
+
+#banner{
+    margin-top: 0px;
+    margin-bottom: 2px;
+    height: auto;
+    width: 100px;
+}
+
+.banner{
+    width: 900px;
+}
+
+.page-header{
+border-bottom: 1px solid green;
+padding-bottom: 9px;
+margin: 5px 0 15px;
+}
+
+/* img.pull-left {
+margin-right: 10px;
+width: 250px;
+} 
+  */
+
+p{
+    margin: 0 0 2px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.panel{
+    background-color: #378655;
+    border: 1px solid black;
+    box-shadow: none;
+    margin: 10px;
+    padding: 2px;
+    color: #ffffff;
+text-decoration-line: none;
+width: 250px;
+
+}
+
+h4{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.panel h4{
+    text-align: center;
+
+}
+.list-space a{
+    color: #ffffff;
+    border-bottom: none;
+}
+
+.mission{
+margin-top: 5px;
+    background-color: gray;
+}
+.mission h1{
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 10px;
+}
+.mission p{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.self p{
+    padding: 2px;
+    font-size: 17px;
+}
+/* #courses h3{
+    text-align:center;
+    text-transform: uppercase;
+    padding-bottom:5px;
+}
+#courses{
+    background-color: #f0cf17ef;
+   margin-top: 5px;
+   margin-bottom: 10px;
+}*/
+.structure h2{
+    text-align: center;
+}
+.structure a{
+    display: block;
+    text-align: center;
+    color:red;
+    padding: 2px;
+    text-decoration: none;
+}
+.structure :hover a{
+    padding-right: 5px;
+}
+  .col a{
+     color:black;
+     text-decoration: none;
+    
+ }
+ 
+ .time h3{
+    border-left:5px solid green;
+    margin-left: 2px;
+    padding-left: 5px;
+    /* border-bottom: 5px solid green; */
+ }
+ /* about.html */
+ .school{
+     background-color: #d89c1b;
+ }
+ .school p{
+    text-align: center;   
+ }
+ .school h2{
+    text-align: center; 
+    font-size: 20px;
+ }
+ 
+ 
+
+/* footer{
+    margin-top: 5px;
+    background-color:#059240;
+    padding: 10px 0;
+    color: #ffffff;
+    width: 960px;
+}
+
+footer a{
+    color:#ffffff;
+text-align: center;
+margin-left: 10px;
+}
+footer h5{
+    margin-left: 15px;
+} */
+
+/* footer start */
+
+ footer{
+     margin-top: 10px;
+    background-color: #059240;
+    color: #ffffff;
+    
+} 
+footer .box-container .box h3{
+font-size: 20px;
+/* background-color: #067032; */
+padding-top: 2px;
+padding-bottom: 2px;
+text-align: center;
+}
+
+footer .box-container .box a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff
+}
+footer .box-container .box a:hover i{
+    padding-right: 5px;
+}
+
+/* footer .box-container:hover {
+    padding-right: 5px;
+} */
+/* footer end  */
+#about{
+    width: 940px;
+    height: 500px; 
+}
+.midcol{
+    text-align: center;
+}
+/* addmssion */
+.adm h1{
+    font-size: 25px;
+}
+.adm p{
+    padding: 10px;
+    font-size: 22px;
+}
+
+/* registration form start */
+.simpleform{
+    background-color: rgb(15, 0, 0);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 30px;
+}
+#button{
+    width: 250px;
+    padding: 10px;
+    outline: 0px;
+     border-radius: 5px;
+}
+#ph{
+outline: 0px;
+width: 50px;
+padding: 10px;
+border-radius: 5px;
+}
+#phone{
+outline: 0px;
+width: 200px;
+padding: 10px;
+border-radius: 5px;
+}
+
+#but{
+    color: honeydew;
+    font-size: 15px;
+}
+#but{
+    color: honeydew;
+    font: 20px;
+}
+#butt{
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    background-color: #0c6996;
+    border: 2px solid #051019;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+/* registration form end */
+/* about.html */
+.maincontent{
+    line-height: 25px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+
+.addr{
+    margin-top: 100px;
+    background-color: rgb(85, 211, 243);
+    padding: 30px;
+    
+}
+/* .sub-heading{
+    border-bottom: yellow;
+    margin-bottom: 5px;
+}
+.sub-heading h1{
+    border-bottom: #0c6996;
+} */
+
+/* gallery.html */
+
+.cards{
+width: 50%;
+background-color:#d89c1b;
+border-radius: 5px;
+margin: 10px;
+box-shadow: 2px 2px 10px rgb(3, 141, 38);
+}
+/* .cards :hover{
+    box-shadow: 2px 2px 10px rgb(33, 219, 16);
+} */
+.image img{
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.title{
+    text-align: center;
+}
+.des{
+    text-align: center;
+    padding: 0px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+
+}
+button:hover{
+    background-color: #ffffff;
+    color: black;
+    transition: .2s;
+}
